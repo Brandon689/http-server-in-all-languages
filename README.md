@@ -32,3 +32,11 @@
 - Scala
 - Swift
 - Visual Basic
+- Nim
+- Zig
+- Julia
+- Lisp
+- R
+- Lua
+- Clojure
+- Lua
