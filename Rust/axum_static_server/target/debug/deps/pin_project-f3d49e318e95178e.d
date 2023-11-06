@@ -1,0 +1,7 @@
+C:\Code3\November\Static File Servers In All Languages\Rust\axum_static_server\target\debug\deps\pin_project-f3d49e318e95178e.rmeta: C:\Users\Brandon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pin-project-1.1.3\src\lib.rs
+
+C:\Code3\November\Static File Servers In All Languages\Rust\axum_static_server\target\debug\deps\libpin_project-f3d49e318e95178e.rlib: C:\Users\Brandon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pin-project-1.1.3\src\lib.rs
+
+C:\Code3\November\Static File Servers In All Languages\Rust\axum_static_server\target\debug\deps\pin_project-f3d49e318e95178e.d: C:\Users\Brandon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pin-project-1.1.3\src\lib.rs
+
+C:\Users\Brandon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pin-project-1.1.3\src\lib.rs:
