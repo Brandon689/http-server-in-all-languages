@@ -1,5 +1,4 @@
 /C
-/C#
 /C++
 /Go
 /Java
@@ -11,3 +10,7 @@
 /Ruby
 /Rust
 /Swift
+
+/C#/ASP.NET_Core/.vs
+/C#/ASP.NET_Core/bin
+/C#/ASP.NET_Core/obj
