@@ -5,14 +5,16 @@
 ## Done
 
 - Python
-
+1. Django
+2. Flask
+- C#
+- ASP.NET
 
 
 
 # Todo
 
 - C
-- C#
 - C++
 - D
 - Dart
