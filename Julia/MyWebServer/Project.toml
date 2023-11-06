@@ -1,0 +1,7 @@
+name = "MyWebServer"
+uuid = "2d9b9f65-7b87-4b16-9e57-f6d473a8336b"
+authors = ["Brandon <brandon139@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"

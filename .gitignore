@@ -2,7 +2,6 @@
 /C++
 /Go
 /Java
-/Javascript
 /Kotlin
 /Perl
 /PHP
@@ -13,3 +12,8 @@
 /C#/ASP.NET_Core/.vs
 /C#/ASP.NET_Core/bin
 /C#/ASP.NET_Core/obj
+
+/Javascript/Express4/.vs
+/Javascript/Express4/bin
+/Javascript/Express4/node_modules
+/Javascript/Express4/obj
