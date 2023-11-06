@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+    <h1 id="percy">Welcome to my Flask web server!</h1>
+    <p>This is a sample HTML page served by Flask.</p>
+    <img src="{{ url_for('static', filename='image.jpg') }}"/>
+</body>
+</html>

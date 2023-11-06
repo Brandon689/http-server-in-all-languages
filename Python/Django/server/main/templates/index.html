@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Website</title>
+    <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <nav>
+        <!-- Navigation links go here -->
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This is a paragraph about the website or the page content.</p>
+            <!-- Image inclusion -->
+            <img src="{% static 'images/albedo.webp' %}" alt="Descriptive Alt Text">
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 by My Website. All rights reserved.</p>
+    </footer>
+
+    <!-- Link to your JavaScript file -->
+    <script src="{% static 'js/scripts.js' %}"></script>
+</body>
+</html>
